@@ -1,4 +1,8 @@
 # Benchmark of Nvidia Nano Board and Google Coral Dev Board
+## Accelerator 
+* [openvino](https://software.intel.com/en-us/openvino-toolkit)
+* [ncnn](https://github.com/Tencent/ncnn) (include android)
+* [Snapdragon NPE SDK](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk) (android only)
 
 # Faster R-CNN and Mask R-CNN in PyTorch 1.0
 
